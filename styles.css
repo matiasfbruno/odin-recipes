@@ -1,0 +1,32 @@
+* {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#main-title {
+    background-color: rgb(38, 143, 43);
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color:rgb(38, 143, 43);
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p,
+li {
+    font-size: 14px;
+}
+
+.back {
+    font-size: 12px;
+}
